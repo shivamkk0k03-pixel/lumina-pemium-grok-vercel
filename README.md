@@ -1,1 +1,1 @@
-# lumina-pemium-grok-vercel
+# lumina-pemium-vercel
